@@ -19,7 +19,7 @@ body {
   font-family: 'Roboto', sans-serif;
   font-size: 1rem;
   line-height: 1.6;
-  background-color: #fff;
+  background-color: #66CDAA;
   color: #333;
 }
 
@@ -357,15 +357,13 @@ table th {
   width: 100%;
   opacity: 0.9;
   margin-bottom: 1rem;
-  background-color: #89cff0;
+  background-color: #008B8B	;
 }
-
 .navbar ul {
   display: flex;
 }
-
 .navbar a {
-  color: #000;
+  color: #000000;
   padding: 0.45rem;
   margin: 0 0.25rem;
 }
